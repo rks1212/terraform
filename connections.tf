@@ -5,5 +5,5 @@ provider "google" {
 }
 
 provider "aws" {
-  region = "ohio"
+  region = "us-east-2"
 }
